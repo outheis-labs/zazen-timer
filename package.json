@@ -1,0 +1,24 @@
+{
+  "name": "zazen-timer",
+  "version": "1.5.0",
+  "description": "A simple timer for Zazen meditation with support for multiple rounds and Kinhin",
+  "author": "Markus Schatzl <code@schatzl.studio>",
+  "license": "BSD-2-Clause",
+  "type": "module",
+  "homepage": "https://schatzl.github.io/zazen-timer-pwa",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.2.1",
+    "canvas": "^3.2.1",
+    "vite": "^5.0.0",
+    "vite-plugin-pwa": "^0.17.4"
+  }
+}
