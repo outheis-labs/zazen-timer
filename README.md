@@ -3,7 +3,7 @@
 A minimal meditation timer for Zazen.  
 Ein minimalistischer Timer für Zazen.
 
-**[→ Open App / App öffnen](https://schatzl.github.io/zazen-timer-pwa/)**
+**[→ Open App / App öffnen](https://outheis-labs.github.io/zazen-timer/)**
 
 ---
 
