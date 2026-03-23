@@ -4,7 +4,7 @@ import { VitePWA } from 'vite-plugin-pwa'
 import pkg from './package.json'
 
 export default defineConfig({
-  base: '/zazen-timer-pwa/',
+  base: '/zazen-timer/',
   define: {
     __APP_VERSION__: JSON.stringify(pkg.version)
   },
@@ -21,8 +21,8 @@ export default defineConfig({
         background_color: '#ffffff',
         display: 'standalone',
         orientation: 'portrait',
-        start_url: '/zazen-timer-pwa/',
-        scope: '/zazen-timer-pwa/',
+        start_url: '/zazen-timer/',
+        scope: '/zazen-timer/',
         icons: [
           {
             src: 'pwa-192x192.png',
